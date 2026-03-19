@@ -1,7 +1,6 @@
-# افضل مصادر تعلم البرمجة بللغة العربية
+#إليك أفضل مصادر تعلم البرمجة باللغة العربية:
+> list of the best Arabic platforms and channels to learn programming.
 
-> A curated list of the best Arabic platforms and channels to learn programming.
-> If this helped you, leave a  — it means a lot!
 
 ---
 
@@ -67,6 +66,6 @@ Step 5 — Build projects and publish on GitHub
 
 <div align="center">
 
-*More resources added regularly — follow to stay updated*
+* follow to stay updated*
 
 </div>
