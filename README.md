@@ -1,4 +1,4 @@
-#  Best Arabic Programming Learning Resources
+# افضل مصادر تعلم البرمجة بللغة العربية
 
 > A curated list of the best Arabic platforms and channels to learn programming.
 > If this helped you, leave a  — it means a lot!
