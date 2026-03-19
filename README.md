@@ -67,8 +67,6 @@ Step 5 — Build projects and publish on GitHub
 
 <div align="center">
 
-*Curated with  by [Melia](https://github.com/0110000melia)*
-
 *More resources added regularly — follow to stay updated*
 
 </div>
