@@ -66,6 +66,6 @@ Step 5 — Build projects and publish on GitHub
 
 <div align="center">
 
-* follow to stay updated*
+follow to stay updated
 
 </div>
